@@ -1,0 +1,20 @@
+
+
+body{
+    background:gray;
+}
+h1,p{ text-align: center;
+}
+
+ol li, ul li{
+   text-align: justify;
+   margin: auto;
+   width: 60%; 
+}
+
+    img {
+        width: 500px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
