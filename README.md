@@ -6,4 +6,3 @@ The odin project assignment on:
 2.link web pages
 
 
-
